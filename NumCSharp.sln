@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumCSharp.Domain", "NumCSharp.Domain\NumCSharp.Domain.csproj", "{3E7AF0F5-B9C2-4392-B31F-FCA6E0E4F55B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumCSharp.Domain.Tests", "NumCSharp.Domain.Tests\NumCSharp.Domain.Tests.csproj", "{50CCB040-1AFD-476C-B016-EF8ACEDAE0D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3E7AF0F5-B9C2-4392-B31F-FCA6E0E4F55B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E7AF0F5-B9C2-4392-B31F-FCA6E0E4F55B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E7AF0F5-B9C2-4392-B31F-FCA6E0E4F55B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50CCB040-1AFD-476C-B016-EF8ACEDAE0D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50CCB040-1AFD-476C-B016-EF8ACEDAE0D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50CCB040-1AFD-476C-B016-EF8ACEDAE0D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50CCB040-1AFD-476C-B016-EF8ACEDAE0D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
